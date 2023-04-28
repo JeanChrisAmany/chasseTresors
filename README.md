@@ -1,5 +1,5 @@
 # CARBON IT : Exercice pratique - La carte aux trésors
-Ce projet est une réponse àà un exercice technique demandé par Carbon IT.
+Chasse aux trésors Carbon It.
 
 ## Lancer le projet
  - Pour lancer le projet, cloner ou télécharger l'archive de ce repo.
